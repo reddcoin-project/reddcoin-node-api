@@ -1,0 +1,26 @@
+{
+	"name": "reddcoin-node-api",
+	"author": "Mathew 'IndieBlock' Waller <IndieBlock@reddcoin.solutions>",
+	"description": "ReddCoin Middle layer API For interfacing quickly and easily with reddcoind",
+	"version": "1.0.0",
+	"main": "lib/reddcoind-api.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:reddcoin-project/reddcoin-node-api.git"
+	},
+	"dependencies": {
+		"express": "3.3.x",
+		"reddcoin": "*"
+	},
+	"keywords": [
+		"reddcoin",
+		"node",
+		"api",
+		"middle layer",
+		"rdd",
+		"reddcoind",
+		"crypto",
+		"currency",
+		"tools"
+	]
+}
