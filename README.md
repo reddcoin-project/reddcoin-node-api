@@ -65,10 +65,10 @@ Would result in a response exactly the same as if were called by the JSON-RPC it
 ```
 
 #### Calling the API With Parameters
-Sometimes you may need to send parameters with your request this can be done in the query string like in the following example call to `getTransaction` The parameters match up with those of the `reddcoind` JSON-RPC documentation.
+Sometimes you may need to send parameters with your request this can be done in the query string like in the following example call to `getRawTransaction` The parameters match up with those of the `reddcoind` JSON-RPC documentation.
 
 ```
-http://localhost:5000/api/gettransaction?txid=TXID
+http://localhost:5000/api/getrawtransaction?txid=TXID
 ```
 
 ### Access Control
