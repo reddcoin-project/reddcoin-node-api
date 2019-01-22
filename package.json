@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"express": "^4.16.4",
-		"reddcoin": "*"
+		"bitcoin": "*"
 	},
 	"keywords": [
 		"reddcoin",
